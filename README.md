@@ -1,4 +1,5 @@
-# 🎥 Responsive Draggable Carousel Slider
+# 🎥 Responsive Personal Portfolio Website
+
 ### 🚀 Welcome to my step-by-step tutorial on how to build a Responsive Personal Portfolio Website using HTML, CSS, and JavaScript! In this video, I’ll guide you through the entire process, from setting up the layout to making your website fully responsive for all devices.
 
 
